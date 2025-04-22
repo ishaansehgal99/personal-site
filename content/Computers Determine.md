@@ -1,0 +1,1 @@
+It's satisfying that there is always an answer. So done. Completed. With a process every time.
