@@ -21,12 +21,22 @@ def collect_md_files(base):
         for file in files:
             if file.endswith(".md"):
                 yield os.path.join(root, file)
-            elif file.endswith(".png") and root in ["/Users/ishaansehgal/Documents/Ishaan's Vault/wtfhappendin1971",
+            elif file.endswith(".png") and root in ["/Users/ishaansehgal/Documents/Ishaan's Vault/Financial Lessons/wtfhappendin1971",
                                                     "/Users/ishaansehgal/Documents/Ishaan's Vault/Tech Learnings/Databases"]:
+                yield os.path.join(root, file)
+            elif file.endswith(".png") and file.startswith("timessquare"):
                 yield os.path.join(root, file)
 
 def relative_path(base, full_path):
-    return os.path.relpath(full_path, base)
+    rel_path = os.path.relpath(full_path, base)
+    # Replace "Tech Learnings" with "300 Technology" in the path
+    if rel_path.startswith("Personal Lessons"):
+        rel_path = rel_path.replace("Personal Lessons", "100 Personal", 1)
+    elif rel_path.startswith("Tech Learnings"):
+        rel_path = rel_path.replace("Tech Learnings", "300 Technology", 1)
+    elif rel_path.startswith("Financial Lessons"):
+        rel_path = rel_path.replace("Financial Lessons", "400 Finance", 1)
+    return rel_path
 
 def main():
     # Clean out the destination folder
