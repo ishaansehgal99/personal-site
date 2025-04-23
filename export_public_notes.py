@@ -21,6 +21,9 @@ def collect_md_files(base):
         for file in files:
             if file.endswith(".md"):
                 yield os.path.join(root, file)
+            elif file.endswith(".png") and root in ["/Users/ishaansehgal/Documents/Ishaan's Vault/wtfhappendin1971",
+                                                    "/Users/ishaansehgal/Documents/Ishaan's Vault/Tech Learnings/Databases"]:
+                yield os.path.join(root, file)
 
 def relative_path(base, full_path):
     return os.path.relpath(full_path, base)
@@ -33,7 +36,7 @@ def main():
 
     # Copy over publishable files
     for filepath in collect_md_files(SOURCE_VAULT):
-        if is_publishable(filepath):
+        if filepath.endswith(".png") or is_publishable(filepath):
             rel_path = relative_path(SOURCE_VAULT, filepath)
             dest_path = os.path.join(DEST_FOLDER, rel_path)
 

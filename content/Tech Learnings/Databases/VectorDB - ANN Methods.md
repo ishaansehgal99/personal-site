@@ -5,7 +5,7 @@ publish: true
 
 ### HSNW
 
-![[Screenshot 2025-04-01 at 12.41.43 AM.png]]
+![[HSNW.png]]
 
 HSNW is a search algorithm that averages O(log N) as opposed to brute force which is O(N).
 
@@ -21,7 +21,7 @@ For example, if we don’t go down a layer, the algorithm **misses finer-grained
 **IVF** = _Inverted File Index_: a method that clusters the vector space into "buckets" (using k-means or similar)
 **FLAT** = _brute-force exact search_ inside each selected cluster
 
-![[Screenshot 2025-04-01 at 12.56.42 AM.png]]
+![[ivf_flat.png]]
 
 
 Index (Offline)
