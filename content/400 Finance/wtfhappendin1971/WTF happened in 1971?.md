@@ -135,6 +135,7 @@ This chart underscores the divergence between financial market activity and real
     - Formula: $$\text{Market Cap} = \text{Share Price} \times \text{Number of Outstanding Shares}$$
   
 ![image](Pasted%20image%2020241203232147.png)
+
 Cloture is the process used to end a filibuster. Increasing use of cloture since 1971. Reflects growing use of filibusters and clotures, increased partisanship and gridlock in the senate. 
 
 
@@ -161,9 +162,11 @@ Economic pressures delayed key life events such as marriage as people needed mor
 
 
 ![image](Pasted%20image%2020241204000117.png)
+
 Economic pressures could also contribute to divorce 
 
 ![image](Pasted%20image%2020241204000853.png)
+
 Financial strain can challenge marriage and family stability. 
 
 Decline of manufacturing jobs. Many stable blue-collar jobs disappeared (e.g. Detroit, Pittsburgh, St. Louis etc.) had a cascading effect on family structures. Men's economic role diminished, now they faced unemployment, underemployment and lower wages in the service economy. This reduced their ability to fulfill traditional economic roles with in a marriage, leading some to opt out of marriage altogether. 
@@ -177,6 +180,7 @@ Economic stress from inflation, families less likely to have more kids.
 
 
 ![image](Pasted%20image%2020241204001110.png)
+
 Economic pressures, families seek cheaper food options. Food companies to cut costs begin mass-producing low-cost processed foods, which became more widely available and affordable than fresh whole foods. Sugary foods, snacks, sodas, fast food, heavily marketed to kids. 
 
 Economic pressures also forced many families to rely on dual incomes reducing the time available for home-cooked meals and physical activity. Fostered reliance on convenience foods. 

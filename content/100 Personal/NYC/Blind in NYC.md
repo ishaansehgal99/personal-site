@@ -37,3 +37,5 @@ She looked at me, and I swear she _knew_. She saw it. The worry, the tenderness,
 That’s what makes New York magical. So many lives, so many stories, colliding in these tiny, fleeting moments. Strangers helping strangers. Strangers seeing each other. No words. Just something real.
 
 That moment disappeared into the noise like all the others. But it stayed with me. One of those rare reminders that even in the chaos—especially in the chaos—there’s something soft and extraordinary happening just beneath the surface.
+
+[[Personal]] [[NYC]]
