@@ -4,25 +4,7 @@ publish: true
 
 # Ishaan Sehgal
 
-Hi, I'm Ishaan. Welcome to my digital garden.
-
-## About Me
-
-I'm passionate about technology, learning, and sharing knowledge. This space serves as my personal knowledge base and a place to share my thoughts.
-
-## Recent Notes
-
-- [[New Year Resolutions]]
-- [[Books to Read]]
-- [[Optimizing Memory Usage in LLM Fine-Tuning]]
-- [[Broken Money]]
-
-## Categories
-
-- [[Tech Learnings/|Tech Learnings]]
-- [[Financial Lessons/|Financial Lessons]]
-- [[Personal Lessons/|Personal Lessons]]
-- [[Dream Journal/|Dream Journal]]
+Hi, I'm Ishaan. Welcome to my digital garden! This is a very early WIP! But I wanted to get something out there. This will grow and evolve as I add new things I'm learning about and thinking on. 
 
 ## Connect
 
