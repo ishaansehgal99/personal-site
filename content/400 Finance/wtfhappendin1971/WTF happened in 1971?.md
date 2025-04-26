@@ -72,8 +72,8 @@ Share of top 10% of income earners relative to everybody else
 
 
 ![image](Pasted%20image%2020241202221408.png)
-After 1971, a clear divergence occurs: **U.S. gold reserves decrease, while gold prices increase**.
 
+After 1971, a clear divergence occurs: **U.S. gold reserves decrease, while gold prices increase**.
 
 **End of the Gold Standard**:
 - Foreign governments could exchange their U.S. dollars for gold from U.S. reserves. In the 1960s, countries like France started converting large amounts of dollars into gold due to declining confidence in the U.S. dollar, leading to a significant depletion of U.S. gold reserves.
