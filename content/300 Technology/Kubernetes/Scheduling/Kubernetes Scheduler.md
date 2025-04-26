@@ -9,7 +9,7 @@ Traditional K8s Scheduler uses predicates (hard requirements) and priorities (so
 
 As K8s has evolved now these requirements are placed into scheduler framework with scheduling plugins (callbacks) this consists of a series of steps. 
 
-![[Pasted image 20250217163629.png]]
+![[scheduler_extensions_final.png]]
 
 
 Here’s the **full set of configurable plugin extension points** in the Kubernetes scheduler:

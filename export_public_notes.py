@@ -26,6 +26,8 @@ def collect_md_files(base):
                 yield os.path.join(root, file)
             elif file.endswith(".png") and file.startswith("timessquare"):
                 yield os.path.join(root, file)
+            elif file.endswith(".png") and file.endswith("final"):
+                yield os.path.join(root, file)
 
 def relative_path(base, full_path):
     rel_path = os.path.relpath(full_path, base)

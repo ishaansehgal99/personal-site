@@ -2,7 +2,7 @@
 publish: true
 ---
 
-![[Pasted image 20250301171301.png]]
+![[dining_philosophers_final.png]]
 
 Five philosophers five forks. The core problem here arises when all five philosophers are trying to acquire a fork someone else has already acquired. If this conditions holds for all philosophers then we have a deadlock, so how do we fix this.
 

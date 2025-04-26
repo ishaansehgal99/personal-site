@@ -11,7 +11,7 @@ A **quadtree** is a tree data structure that recursively subdivides a two‑dime
 Basically the way it works is storing 2D data in two-dimensional space. And when a certain two-dimensional space gets to packed it subdivides that space into smaller 2D spaces. It can do this via trees.
 
 
-![[Pasted image 20250416210659.png]]
+![[quad_trees_final.png]]
 ```python
 from typing import List, Tuple
 

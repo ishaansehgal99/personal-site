@@ -159,7 +159,7 @@ PluginConfig allows passing addtional args to a plugin
 
 Performance difference between using the Scheduler Webhook Extender and Plugin is drastic. 
 
-![[Pasted image 20250217163206.png]]
+![[scheduler_webhook_extenders_final.png]]
 
 - A **Predicate Extender** (which is webhook-based) can take **up to 50% of the scheduling algorithm duration**.
 - A **FilterPlugin** (which is a scheduler plugin-based approach) takes only **up to 4% of the scheduling algorithm duration**.

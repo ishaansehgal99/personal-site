@@ -2,7 +2,7 @@
 publish: true
 ---
 
-![[Pasted image 20250329155917.png]]
+![[pre_training_llm_final.png]]
 
 ### **Top bar: Most LLMs
 
