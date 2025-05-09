@@ -9,14 +9,21 @@ In this approach for topological sorting we maintain a stack of the nodes and ap
 So it would look like this
 
 ```python
-def topSortUtil(v, adj, visited, stack):
+
+def topSortUtil(v, adj, curr_visited, has_cycle, visited, stack):
+	if v in curr_visited:
+		has_cycle[0] = True
+		return []
+	
 	if visited[v]:
 		return
 	
 	visited[v] = True
-	
+
+	curr_visited.add(v)
 	for i in adj[v]:
-		topSortUtil(i, adj, visited, stack)
+		topSortUtil(i, adj, curr_visited, has_cycle, visited, stack)
+	curr_visited.remove(v)
 
 	stack.append(v)
 
@@ -26,14 +33,17 @@ def constructadj(V, edges):
         adj[it[0]].append(it[1])
     return adj
 
-def topSort(vertices, edges):
+def topSort(vertices, curr_visited, edges):
 	stack = []
 	visited = [False for v in range(vertices)]
 	adj = constructadj(vertices, edges)
 	
 	for v in range(vertices):
 		if not visited[v]:
-			topSortUtil(v, adj, visited, stack)
+			has_cycle = [False]
+			topSortUtil(v, adj, set(), has_cycle, visited, stack)
+			if has_cycle[0]:
+				return []
 
 	return stack[::-1]
 
@@ -45,6 +55,7 @@ if __name__ == '__main__':
     print(" ".join(map(str, ans)))
 ```
 
+`curr_visited` can be used to keep track of cycles
 
 Time Complexity: O(V + E) - We visit each edge and node at most once.
 Space Complexity: O(V) - We maintain an ordering list of size V.
