@@ -19,4 +19,4 @@ That even though it seems absurd and what I say seems ridiculous (and it probabl
 
 It's such a brief fleeting feeling when it happens, sometimes if done very well it can go longer and then poof its gone. Back to real living. Almost like it never happened. But its theres even if its just a moment, you made something new.
 
-tldr; I guess what I'm trying to say is being a dumbass is such a great feeling that at one point I even tried to make a career out of it. Another story in there somewhere.
+tldr; I guess what I'm trying to say is being a dumbass is such a great feeling. Another story in there somewhere.
