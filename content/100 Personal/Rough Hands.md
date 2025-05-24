@@ -10,5 +10,8 @@ I looked at his wide eyes. I looked at my hands. In that moment. *I didn't know.
 Of course I *knew* what had happened. But how would that even make sense? To explain? To a child? And yet, here he was. An innocent child. A gift from God. Asking out of pure love and wonder.
 
 
+*No AI used.*
+
+
 
 
