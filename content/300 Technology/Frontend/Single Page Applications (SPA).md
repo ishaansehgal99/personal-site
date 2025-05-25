@@ -13,17 +13,16 @@ So, in an SPA:
 
 What does that last bullet mean? 
 
-👉 When you go to `/home` in a SPA:
+##### 👉 When you go to `/home` in a SPA:
 - The server just sends back `index.html` and the JS app.
 - Then **React Router** sees `/home`, says “oh! show the HomePage component,” and **renders that component on the page**.
 - The server is not involved in figuring out what `/home` means.
     
-#### 👉 In a traditional site (non-SPA):
+##### 👉 In a traditional site (non-SPA):
 - You visit `/home`
 - The browser asks the server, “Hey, give me `/home`”
 - The server returns a **completely new HTML file** for that page
 - The browser reloads everything
-
 
 Now back to my situation with my React SPA app hosted on Vercel.
 
