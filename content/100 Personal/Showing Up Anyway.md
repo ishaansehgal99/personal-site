@@ -8,7 +8,7 @@ It’s hard to swallow your pride.
 Hard to face uncomfortable truths.  
 Hard to navigate conflict and uncertainty.
 
-But it takes a real man to do all that and still show up — grounded, respectful, loving, and clear in who he is.
+But it takes a real man to do all that and still show up: grounded, respectful, loving, and clear in who he is.
 
 As hard as it is, a real man eventually faces his challenges.  
 He knows running isn’t the answer.  
